@@ -1,0 +1,5 @@
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/CMAKE_LEARNING/build/CMakeFiles/rebuild_cache.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/CMAKE_LEARNING/build/CMakeFiles/edit_cache.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/CMAKE_LEARNING/build/bin/CMakeFiles/rebuild_cache.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/CMAKE_LEARNING/build/bin/CMakeFiles/ceresCurveFitting.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/CMAKE_LEARNING/build/bin/CMakeFiles/edit_cache.dir

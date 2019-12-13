@@ -1,0 +1,3 @@
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/OPENCV_LEARNING/build/CMakeFiles/rebuild_cache.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/OPENCV_LEARNING/build/CMakeFiles/cv.out.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/OPENCV_LEARNING/build/CMakeFiles/edit_cache.dir

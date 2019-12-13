@@ -1,0 +1,5 @@
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/Opencv_learning_chapter7/build/CMakeFiles/rebuild_cache.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/Opencv_learning_chapter7/build/CMakeFiles/edit_cache.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/Opencv_learning_chapter7/bin/CMakeFiles/rebuild_cache.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/Opencv_learning_chapter7/bin/CMakeFiles/7_t1.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/Opencv_learning_chapter7/bin/CMakeFiles/edit_cache.dir

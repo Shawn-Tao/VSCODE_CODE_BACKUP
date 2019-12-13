@@ -1,0 +1,5 @@
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/ch7/build/CMakeFiles/rebuild_cache.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/ch7/build/CMakeFiles/edit_cache.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/ch7/bin/CMakeFiles/rebuild_cache.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/ch7/bin/CMakeFiles/pose_estimation_3d3d.dir
+/home/shawntao/Nutstore Files/我的坚果云/Backup_PC_win10/VMware_ubuntu/VSCODE/ch7/bin/CMakeFiles/edit_cache.dir
